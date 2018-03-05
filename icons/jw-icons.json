@@ -1,0 +1,48 @@
+{
+    "iconDefinitions": {
+        "j000": {
+            "iconPath": "./images/000.png"
+        },
+        "j001": {
+            "iconPath": "./images/001.png"
+        },
+        "j002": {
+            "iconPath": "./images/002.png"
+        },
+        "j003": {
+            "iconPath": "./images/003.png"
+        },
+        "j004": {
+            "iconPath": "./images/004.png"
+        },
+        "j005": {
+            "iconPath": "./images/005.png"
+        },
+        "j006": {
+            "iconPath": "./images/006.png"
+        },
+        "j007": {
+            "iconPath": "./images/007.png"
+        },
+        "j008": {
+            "iconPath": "./images/008.png"
+        },
+        "j009": {
+            "iconPath": "./images/009.png"
+        }
+    },
+    "rootFolder": "j004",
+    "folder": "j004",
+    "folderExpanded": "j004",
+    "folderNames": {},
+    "file": "j006",
+    "fileExtensions": {
+        "json": "j009",
+        "csproj": "j009",
+        "fsproj": "j009"
+    },
+    "fileNames": {},
+    "languageIds": {},
+    "light": {},
+    "highContrast": {}
+}
