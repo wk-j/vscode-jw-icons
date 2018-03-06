@@ -1,9 +1,10 @@
 {
     "name": "vscode-jw-icons",
     "displayName": "JW Icons",
-    "description": "",
-    "version": "18.3.0",
+    "description": "JW Icons",
+    "version": "18.3.1",
     "publisher": "wk-j",
+    "icon": "icons/images/011.png",
     "engines": {
         "vscode": "^1.20.0"
     },
