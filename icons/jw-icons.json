@@ -29,17 +29,32 @@
         },
         "j009": {
             "iconPath": "./images/009.png"
+        },
+        "j010": {
+            "iconPath": "./images/010.png"
+        },
+        "j011": {
+            "iconPath": "./images/011.png"
+        },
+        "j012": {
+            "iconPath": "./images/012.png"
+        },
+        "j013": {
+            "iconPath": "./images/013.png"
+        },
+        "j014": {
+            "iconPath": "./images/014.png"
         }
     },
     "rootFolder": "j004",
     "folder": "j004",
     "folderExpanded": "j004",
     "folderNames": {},
-    "file": "j006",
+    "file": "j014",
     "fileExtensions": {
         "json": "j009",
         "csproj": "j009",
-        "fsproj": "j009"
+        "fsproj": "j099"
     },
     "fileNames": {},
     "languageIds": {},
